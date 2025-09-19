@@ -1,0 +1,43 @@
+{
+  "name": "PANDA CLUB 330",
+  "description": "V1 update",
+  "external_url": "https://PandaClub.xyzhttps://PandaClub.xyz",
+  "image": "https://raw.githubusercontent.com/pdcxrp/pdc7/main/330.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "grey"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "grey jacket"
+    },
+    {
+      "trait_type": "Face",
+      "value": "grin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "crown"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Wings"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/pdcxrp/pdc7/main/330.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
